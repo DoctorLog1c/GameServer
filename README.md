@@ -10,7 +10,6 @@ Project board on Waffle: https://waffle.io/LeagueSandbox/leaguesandbox.github.io
 We're looking for people interested in contributing to the project.  
 Currently the technologies we use include:
 * C#
-* Lua
 * Electron
 * Node.js
 * Angular
